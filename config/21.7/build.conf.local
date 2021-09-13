@@ -2,6 +2,6 @@ GITBASE=https://gitlab.mim-libre.fr/EOLE/amon-3/opnsense
 TOOLSBRANCH=amon-3.0/21.7
 SETTINGS=21.7
 VERSION=Amon-3.0
-ADDITIONS=py37-salt
+ADDITIONS=py38-salt
 PUBKEY=/root/repo21.7.pub
 PRIVKEY=/root/repo21.7.key
